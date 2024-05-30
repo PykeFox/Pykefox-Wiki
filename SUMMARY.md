@@ -1,4 +1,3 @@
 * [Pykefox](README.md)
-    * [概述](Pykefox/INFO.md)
-    * [历史](Pykefox/HISTORY.md)
-    * [项目](Pykefox/ENTERPRISE.md)
+* [致癌WIKI](Zhiai/README.md)
+    * [例子](Zhiai/Example.md)
